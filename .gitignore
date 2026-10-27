@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+01_todo/tasks.json
+05_contact_book/contacts.json
